@@ -32,6 +32,6 @@ li {
 ul {
     margin-right: 0.5em;
 }
-#projects > div{
-    display: table-cell;
+div.skills{
+    padding-right: 50px;
 }
