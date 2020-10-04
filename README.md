@@ -1,2 +1,2 @@
 # Professional Site of Ryan G. Hunter
-[ryanhunter.dev](ryanhunter.dev)
+[ryanhunter.dev](https://ryanhunter.dev)
