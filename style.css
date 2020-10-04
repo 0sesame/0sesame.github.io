@@ -7,7 +7,7 @@ body {
 }
 body {
   line-height: 1.5;
-  padding: 4em 1em;
+  padding: 2em 1em;
 }
 
 h2 {
@@ -16,4 +16,22 @@ h2 {
 }
 body {
   color: #556;
+}
+img {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    float: right;
+}
+head {
+    display: inline-block;
+}
+li {
+    float:left;
+}
+ul {
+    margin-right: 0.5em;
+}
+#projects > div{
+    display: table-cell;
 }
